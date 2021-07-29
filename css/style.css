@@ -1,0 +1,24 @@
+/* header background */
+.honda-bg-info{
+        background-color: #264653; !important
+}
+/* Fetured Bikes image grayscale */
+.first{
+        filter: grayscale(1);
+        -webkit-filter: grayscale(1);
+}
+/* Fetured Bikes text */
+hr{
+        margin-left: auto;
+        margin-right: auto;
+        border: 2px solid black;
+}
+/* Happy Clients says  */
+.clinets{
+        color: #E76F51;
+
+}
+/* Frequently Asked Questions  */
+.Questions{
+        color: #E76F51;
+}
